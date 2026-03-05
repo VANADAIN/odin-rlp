@@ -1,0 +1,20 @@
+# Odin build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.bin
+*.pdb
+*.lib
+*.dll
+*.dylib
+*.so
+*.a
+
+# Build directories
+build/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
